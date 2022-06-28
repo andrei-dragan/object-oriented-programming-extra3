@@ -1,0 +1,7 @@
+56,12,101,Raul,an animal!duh!
+101,12,56,Ionut,not a dog!
+44,45,70,Andrei,when you want!
+23,88,3,Sami,Fries
+479,88,1,Raul,KFC
+346,88,0,Ionut,OOP on bread
+436,88,2,Andrei,Haha
